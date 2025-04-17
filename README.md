@@ -7,17 +7,27 @@ This project analyzes TikTok videos related to energytransition and photovoltaic
 ## How to use
 
 1. Clone the repository.
-2. Install the dependencies: `pip install -r requirements.txt`
+2. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. Run the scripts in the following order:
-   1. fetch_tiktok_videos.py
-   2. fetch_tiktok_comments.py
-   3. preprocess_texts.py
-   4. filter_videos.py
-   5. sentiment_analysis.py
-   6. stance_detection.py
-   7. stance_detection_comments.py
-   8. extract_comments_stats.py
-   9. analyse_critics.py
-   10. visualize_sentiment_and_stance.py
-   11. plot_engagement_over_stance.py
 
+### Data Collection
+1. `fetch_tiktok_videos.py`
+2. `fetch_tiktok_comments.py`
+
+### Preprocessing
+1. `preprocess_texts.py`
+2. `filter_videos.py`
+
+### Analysis
+1. `sentiment_analysis.py`
+2. `stance_detection.py`
+3. `stance_detection_comments.py`
+4. `extract_comments_stats.py`
+5. `analyse_critics.py`
+
+### Visualization
+1. `visualize_sentiment_and_stance.py`
+2. `plot_engagement_over_stance.py`
