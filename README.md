@@ -18,9 +18,6 @@ This project analyzes TikTok videos related to energy topics, specifically focus
   - **visualization/**
     - Scripts for data visualization
 
-    # TikTok Sentiment and Stance Analysis
-
-
 ## How to use
 
 1. Clone the repository.
