@@ -1,0 +1,15 @@
+# Python Bytecode files
+__pycache__/
+*.pyc
+
+
+# Virtual environment directories
+venv/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Output directories
+output/
