@@ -1,22 +1,8 @@
 # TikTok Sentiment and Stance Analysis
 
-This project analyzes TikTok videos related to energy topics, specifically focusing on stance and sentiment analysis of comments and videos.
+This project analyzes TikTok videos related to energytransition and photovoltaics, specifically focusing on stance and sentiment analysis of comments and videos.
 
-## Directory Structure
-
-- **data/**
-  - raw video and comment data
-- **output/**
-  - plots and statistics
-- **scripts/**
-  - **data_collection/**
-    - Scripts to fetch TikTok data
-  - **preprocessing/**
-    - Data preprocessing scripts
-  - **analysis/**
-    - Sentiment and stance analysis scripts
-  - **visualization/**
-    - Scripts for data visualization
+![image](https://github.com/user-attachments/assets/e6734aee-57e5-40ad-93db-486b8c3cefa3)
 
 ## How to use
 
